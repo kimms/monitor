@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ghs_imez_monitor
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: seobi
+Implementation-Vendor-Id: biz.ghs.imez
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/monitor
+Created-By: Maven Integration for Eclipse
+
