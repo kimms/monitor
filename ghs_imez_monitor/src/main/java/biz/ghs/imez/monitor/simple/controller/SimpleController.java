@@ -14,7 +14,7 @@ public class SimpleController extends CommonController{
 
 	@RequestMapping(value = "/getSimple", method = RequestMethod.GET)
 	public ResponseVO<CommonResultDataVO> getSimple() {
-		boolean result = false;
+		boolean result = true;
 		
 		return super.makeResponseData(HttpStatus.OK, result ? super.getSuccessCode() : super.getFailCode());
 	}
